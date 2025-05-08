@@ -1,6 +1,3 @@
-Você disse:
-chat gpt, você poderia colocar um aimbot interado neste script? sem mudar nada:
-
 
 --//Força\\-- 
 local StrenghtMultiplier = 450
