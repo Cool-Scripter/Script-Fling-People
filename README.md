@@ -1,5 +1,5 @@
 
---//Força\\-- 
+--//Forças\\--
 local StrenghtMultiplier = 450
 --\\End//--
 
